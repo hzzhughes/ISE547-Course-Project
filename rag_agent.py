@@ -2,7 +2,7 @@
 """Terminal RAG agent based on the notebook `rag.ipynb`.
 
 Usage:
-  python rag_agent.py [--rebuild-index] [--index-path INDEX_PATH] [--cards-path CARDS_GLOB]
+    python rag_agent.py [--rebuild-index] [--index-path INDEX_PATH] [--cards-path CARDS_GLOB] [--chat-model CHAT_MODEL] [--embed-model EMBED_MODEL]
 
 The script will prompt for an OpenAI-compatible API key if not set in the environment.
 It will load or build a FAISS index from `./data/rules` and optionally card JSONs from `./data/cards/en`.
@@ -16,6 +16,10 @@ import sys
 import getpass
 from difflib import SequenceMatcher
 from typing import List, Tuple
+
+# Set a sensible default OpenAI base URL for OpenRouter if not provided
+if not os.environ.get("OPENAI_BASE_URL"):
+    os.environ["OPENAI_BASE_URL"] = "https://openrouter.ai/api/v1"
 
 try:
     # langchain packages used in the notebook
@@ -37,18 +41,33 @@ def ensure_api_key():
         os.environ["OPENAI_API_KEY"] = getpass.getpass("Enter OpenAI-compatible API key: ")
 
 
-def init_model():
-    # notebook used an OpenRouter base; try to respect OPENAI_BASE_URL if set
+def init_model(chat_model: str | None = None):
+    """Initialize ChatOpenAI. If `chat_model` is provided it will be used.
+
+    If `chat_model` is None and `OPENAI_BASE_URL` is set, the notebook's
+    default `google/gemini-2.5-flash-lite` will be used to preserve behavior.
+    """
     base_url = os.environ.get("OPENAI_BASE_URL")
+    model_name = chat_model
+    if model_name is None and base_url:
+        model_name = "google/gemini-2.5-flash-lite"
+
+    kwargs = {}
     if base_url:
-        model = ChatOpenAI(model="google/gemini-2.5-flash-lite", openai_api_base=base_url)
-    else:
-        model = ChatOpenAI()
-    return model
+        kwargs["openai_api_base"] = base_url
+    if model_name:
+        kwargs["model"] = model_name
+
+    return ChatOpenAI(**kwargs)
 
 
-def init_embeddings():
-    return OpenAIEmbeddings(model="openai/text-embedding-3-small")
+def init_embeddings(embed_model: str | None = None):
+    """Initialize OpenAIEmbeddings with an optional model name.
+
+    If `embed_model` is None, the default `openai/text-embedding-3-small` is used.
+    """
+    model_name = embed_model or "openai/text-embedding-3-small"
+    return OpenAIEmbeddings(model=model_name)
 
 
 def build_or_load_faiss(index_path: str, embeddings, docs_paths: List[str], rebuild: bool = False):
@@ -177,9 +196,9 @@ def create_agent_and_tools(model, vector_store, cards_glob):
         """Search the rulebook vector store for relevant passages."""
         return search_rules(query, vector_store=vector_store)
 
-    @tool("search_cards", description="Search card JSONs for matching cards", response_format="content_and_artifact")
+    @tool("search_cards", description="Search card JSONs for matching cards (fuzzy matching)", response_format="content_and_artifact")
     def bound_search_cards(query: str):
-        """Search the card JSON dataset for matching cards."""
+        """Search the card JSON dataset for matching cards with fuzzy matching and occurrence scoring."""
         return search_cards(query, cards_path=cards_glob)
 
     tools = [bound_search_rules, bound_search_cards]
@@ -238,11 +257,13 @@ def main():
     parser.add_argument("--rebuild-index", action="store_true", help="Rebuild the FAISS index from source docs")
     parser.add_argument("--rules-glob", default="./data/rules/*.pdf", help="Glob for rulebook files")
     parser.add_argument("--cards-glob", default="./data/cards/en/*.json", help="Glob for card JSON files")
+    parser.add_argument("--chat-model", default=None, help="Chat model name to use (overrides default). Example: 'gpt-4o' or 'google/gemini-2.5-flash-lite'")
+    parser.add_argument("--embed-model", default=None, help="Embedding model name to use (overrides default). Example: 'openai/text-embedding-3-small'")
     args = parser.parse_args()
 
     ensure_api_key()
-    model = init_model()
-    embeddings = init_embeddings()
+    model = init_model(chat_model=args.chat_model)
+    embeddings = init_embeddings(embed_model=args.embed_model)
 
     vector_store = None
     try:

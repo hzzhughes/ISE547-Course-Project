@@ -1,0 +1,284 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is a Link Monster primarily used for in Yu-Gi-Oh!?",
+      "choices": {
+        "A": "To be equipped to other monsters to increase ATK",
+        "B": "To provide Link Markers that enable Extra Monster Zone and Link Summons",
+        "C": "To act as a Spell Card while face-up on the field",
+        "D": "To serve as a Fusion Material from the graveyard"
+      },
+      "answer": "B",
+      "explanation": "Link Monsters have Link Markers and are used to point to zones for Extra Deck summons and to create link arrows; they are not equipped or Spell Cards.",
+      "topic": "Link Monsters",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q2",
+      "question": "Which monster type can be used as Synchro Material for a Synchro Summon?",
+      "choices": {
+        "A": "Only two Fusion monsters",
+        "B": "Any combination of monsters including Spell Cards",
+        "C": "Only Tuner monsters plus one or more non-Tuner monsters",
+        "D": "Only Link Monsters"
+      },
+      "answer": "C",
+      "explanation": "A Synchro Summon requires 1 Tuner monster and one or more non-Tuner monsters whose total Levels equal the Synchro Monster's Level.",
+      "topic": "Synchro Summons",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q3",
+      "question": "If a card text reads 'You can only use this effect of \"Card Name\" once per turn', what does that mean?",
+      "choices": {
+        "A": "You can use the effect twice if you control two copies",
+        "B": "It restricts using the entire card to once per Duel",
+        "C": "You may use it only during your opponent's turn",
+        "D": "You can activate that exact effect once per turn, even if you control multiple copies"
+      },
+      "answer": "D",
+      "explanation": "A 'once per turn' clause restricts that particular effect to once each turn, regardless of the number of copies you control, unless the card specifies 'once per turn per card'.",
+      "topic": "Card Text / Timing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is TRUE about 'Link Arrows' on Link Monsters?",
+      "choices": {
+        "A": "They increase a monster's ATK if it points to it",
+        "B": "They can be used as Fusion Materials",
+        "C": "They point to zones and can enable summoning Extra Deck monsters to those zones",
+        "D": "They grant immunity to Spell Cards"
+      },
+      "answer": "C",
+      "explanation": "Link Arrows designate zones and often enable Extra Deck monsters to be summoned to zones pointed to by links; they don't modify ATK or serve as materials.",
+      "topic": "Link Mechanics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q5",
+      "question": "What happens when a monster that was Special Summoned from the Extra Deck is sent to the GY?",
+      "choices": {
+        "A": "It is returned to the Extra Deck automatically",
+        "B": "It is sent to the GY like any other monster, but some effects may banish it instead",
+        "C": "It becomes a Spell Card in the field",
+        "D": "It stays on the field as a Continuous Trap"
+      },
+      "answer": "B",
+      "explanation": "Monsters summoned from the Extra Deck go to the Graveyard when destroyed or sent there unless an effect replaces that destination (for example, 'banish instead' effects). Returning to the Extra Deck only happens for face-up Pendulum, Link, or certain other monsters under specific rules.",
+      "topic": "Extra Deck / Graveyard",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q6",
+      "question": "Which of the following best describes a 'Chain' in Yu-Gi-Oh!?",
+      "choices": {
+        "A": "A sequence of Deck shuffles after drawing",
+        "B": "A special type of Fusion Summon",
+        "C": "A stack of Spell/Trap/Monster effects that resolve last-in, first-out",
+        "D": "A term for linking multiple Link Monsters"
+      },
+      "answer": "C",
+      "explanation": "A Chain forms when effects are activated in response to one another; they resolve in reverse order (last activated, first resolved).",
+      "topic": "Chain/Timing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q7",
+      "question": "What is required to perform a Ritual Summon?",
+      "choices": {
+        "A": "Two Link Monsters with combined Link Rating equal to the Ritual Monster's Level",
+        "B": "A Ritual Spell Card and tributing monsters whose Levels equal or exceed the Ritual Monster's Level",
+        "C": "A Fusion Material and Polymerization",
+        "D": "Pay 1000 LP and discard your hand"
+      },
+      "answer": "B",
+      "explanation": "Ritual Summons require a specific Ritual Spell Card that describes the materials (typically tributing monsters whose total Levels meet or exceed the Ritual Monster's Level).",
+      "topic": "Ritual Summon",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q8",
+      "question": "Which card effect type can respond to another effect to negate it in the Chain?",
+      "choices": {
+        "A": "A Normal Spell activated from your hand during Main Phase 1 only",
+        "B": "A monster's continuous boost to ATK",
+        "C": "A Pendulum Scale increase",
+        "D": "A Quick-Play Spell or Trap that specifically says 'negate' or a monster effect that can negate"
+      },
+      "answer": "D",
+      "explanation": "Only effects that can be activated in response (Quick Effects, Quick-Play Spells when set, Traps, or monster Quick effects) and that explicitly negate can stop an effect in the Chain.",
+      "topic": "Negation / Chain",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q9",
+      "question": "What is a 'Link Rating' commonly referred to as?",
+      "choices": {
+        "A": "Link Rating is the monster's Level used for Synchro summons",
+        "B": "Link Rating is the amount of LP needed to summon the Link Monster",
+        "C": "Link Rating is simply called the monster's Link Rating or Link Rating value (number of Link Arrows).",
+        "D": "Link Rating is the number of times a monster can attack"
+      },
+      "answer": "C",
+      "explanation": "A Link Monster's Link Rating is the number printed on the card that corresponds to how many Link Arrows it has; it is not a Level or LP cost.",
+      "topic": "Link Mechanics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q10",
+      "question": "Which method below is a correct way to Special Summon a Fusion Monster from the Extra Deck?",
+      "choices": {
+        "A": "Summon it by normal summoning a Level 8 monster",
+        "B": "Send it to the Graveyard from the hand",
+        "C": "Use a Fusion Spell (like 'Polymerization') with the required Fusion Materials",
+        "D": "Equip two Spell Cards to any monster"
+      },
+      "answer": "C",
+      "explanation": "Fusion Summons typically require a Fusion Spell and the listed Fusion Materials (or alternative methods specified on cards). Normal Summon doesn't place Extra Deck monsters.",
+      "topic": "Fusion Summon",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q11",
+      "question": "What is the maximum number of cards allowed in a Main Deck in official Yu-Gi-Oh! tournaments?",
+      "choices": {
+        "A": "40 cards",
+        "B": "80 cards",
+        "C": "60 cards",
+        "D": "No maximum limit"
+      },
+      "answer": "C",
+      "explanation": "The Main Deck must contain between 40 and 60 cards. While 40 is the minimum, 60 is the maximum allowed in official play.",
+      "topic": "Deck Construction",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q12",
+      "question": "When can you activate a Trap Card from your hand?",
+      "choices": {
+        "A": "During your Main Phase only",
+        "B": "You cannot activate Trap Cards from your hand; they must be Set first",
+        "C": "Whenever you want, like Quick-Play Spells",
+        "D": "Only during the Battle Phase"
+      },
+      "answer": "B",
+      "explanation": "Trap Cards must be Set on the field for at least one turn before they can be activated (with rare exceptions like specific card effects that allow activation from hand).",
+      "topic": "Trap Cards / Game Mechanics",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q13",
+      "question": "What does 'piercing damage' mean in Yu-Gi-Oh!?",
+      "choices": {
+        "A": "When a monster can attack directly without being blocked",
+        "B": "When a monster deals double damage during the Battle Phase",
+        "C": "When a monster attacks a Defense Position monster with lower DEF, the difference is dealt as damage to the opponent",
+        "D": "When a monster destroys two monsters in one attack"
+      },
+      "answer": "C",
+      "explanation": "Piercing damage (also called 'trample') allows the attacking monster to inflict the difference between its ATK and the defending monster's DEF as battle damage to the opponent.",
+      "topic": "Battle Mechanics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q14",
+      "question": "Which of the following is TRUE about Pendulum Monsters?",
+      "choices": {
+        "A": "They are always treated as Trap Cards when in the hand",
+        "B": "They can only be Normal Summoned, never Special Summoned",
+        "C": "They automatically return to the hand when destroyed",
+        "D": "They can be placed in the Pendulum Zones to act as Spell Cards and enable Pendulum Summons"
+      },
+      "answer": "D",
+      "explanation": "Pendulum Monsters have dual functionality: they can be played as monsters or placed in Pendulum Zones as Spell Cards to set Pendulum Scales for Pendulum Summoning.",
+      "topic": "Pendulum Mechanics",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q15",
+      "question": "What happens if both players' Life Points reach 0 at the same time?",
+      "choices": {
+        "A": "The turn player wins",
+        "B": "The Duel is a draw (tie)",
+        "C": "The non-turn player wins",
+        "D": "Both players lose and must restart"
+      },
+      "answer": "B",
+      "explanation": "If both players' Life Points reach 0 simultaneously, or if both players meet a win/loss condition at the same time, the Duel ends in a draw.",
+      "topic": "Win Conditions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q16",
+      "question": "What is an XYZ Monster's 'Rank'?",
+      "choices": {
+        "A": "The monster's ATK divided by 100",
+        "B": "The number of times it can attack per turn",
+        "C": "The number that indicates what Level monsters are needed as XYZ Materials",
+        "D": "The position in the Extra Deck"
+      },
+      "answer": "C",
+      "explanation": "XYZ Monsters have Ranks instead of Levels. The Rank indicates what Level monsters you need to overlay (stack) to XYZ Summon it.",
+      "topic": "XYZ Summons",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q17",
+      "question": "Can you Normal Summon and Special Summon in the same turn?",
+      "choices": {
+        "A": "No, you must choose either Normal Summon or Special Summon each turn",
+        "B": "Yes, but only during your Main Phase 2",
+        "C": "No, unless you control a Field Spell",
+        "D": "Yes, you can perform one Normal Summon and any number of Special Summons per turn"
+      },
+      "answer": "D",
+      "explanation": "You can perform one Normal Summon/Set per turn (unless a card effect allows additional Normal Summons) and any number of Special Summons, as long as game mechanics and card effects permit.",
+      "topic": "Summoning Rules",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q18",
+      "question": "What does 'banish' mean in Yu-Gi-Oh!?",
+      "choices": {
+        "A": "Send a card from the field to the Graveyard",
+        "B": "Return a card to the owner's hand",
+        "C": "Remove a card from play (send it to a separate zone, formerly called 'removed from play')",
+        "D": "Shuffle a card back into the Deck"
+      },
+      "answer": "C",
+      "explanation": "Banishing (previously 'removing from play') means placing a card in the Banished zone, separate from the Graveyard, hand, Deck, and field.",
+      "topic": "Game Mechanics / Terminology",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q19",
+      "question": "If a monster is unaffected by Spell effects, can it still be targeted by a Spell Card?",
+      "choices": {
+        "A": "No, it cannot be targeted at all",
+        "B": "Yes, and the effect will apply normally",
+        "C": "Only if the Spell Card is a Quick-Play Spell",
+        "D": "Yes, it can be targeted, but the effect will not apply to it"
+      },
+      "answer": "D",
+      "explanation": "Being 'unaffected by' an effect type means the card can still be targeted, but the effect does not apply. This is different from 'cannot be targeted,' which prevents targeting entirely.",
+      "topic": "Card Effects / Targeting",
+      "difficulty": "hard"
+    },
+    {
+      "id": "q20",
+      "question": "What is the difference between 'destroy' and 'send to the Graveyard'?",
+      "choices": {
+        "A": "They are exactly the same and can be used interchangeably",
+        "B": "'Send to GY' only applies to Spell/Trap Cards",
+        "C": "'Destroy' can only be done during the Battle Phase",
+        "D": "'Destroy' is a specific game action that can trigger certain effects; 'send to GY' does not count as destruction"
+      },
+      "answer": "D",
+      "explanation": "Destruction is a specific mechanic that triggers 'when destroyed' effects. Sending to the Graveyard by other means (like tributing or card effects that 'send') does not count as destruction.",
+      "topic": "Game Mechanics / Card Effects",
+      "difficulty": "hard"
+    }
+  ]
+}

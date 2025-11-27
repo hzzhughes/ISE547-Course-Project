@@ -1,0 +1,278 @@
+Cannot set gray stroke color because /'P0' is an invalid float value
+Cannot set gray stroke color because /'P1' is an invalid float value
+Cannot set gray stroke color because /'P2' is an invalid float value
+Cannot set gray stroke color because /'P3' is an invalid float value
+Cannot set gray stroke color because /'P4' is an invalid float value
+Cannot set gray stroke color because /'P5' is an invalid float value
+Cannot set gray stroke color because /'P6' is an invalid float value
+Cannot set gray stroke color because /'P7' is an invalid float value
+Cannot set gray stroke color because /'P8' is an invalid float value
+Cannot set gray stroke color because /'P9' is an invalid float value
+Cannot set gray stroke color because /'P10' is an invalid float value
+Cannot set gray stroke color because /'P11' is an invalid float value
+Cannot set gray stroke color because /'P12' is an invalid float value
+Cannot set gray stroke color because /'P13' is an invalid float value
+Cannot set gray stroke color because /'P14' is an invalid float value
+Cannot set gray stroke color because /'P15' is an invalid float value
+Cannot set gray stroke color because /'P16' is an invalid float value
+Cannot set gray stroke color because /'P17' is an invalid float value
+Cannot set gray stroke color because /'P18' is an invalid float value
+Cannot set gray stroke color because /'P19' is an invalid float value
+Cannot set gray stroke color because /'P20' is an invalid float value
+Cannot set gray stroke color because /'P21' is an invalid float value
+Cannot set gray stroke color because /'P22' is an invalid float value
+Cannot set gray stroke color because /'P23' is an invalid float value
+Cannot set gray stroke color because /'P24' is an invalid float value
+Cannot set gray stroke color because /'P25' is an invalid float value
+Cannot set gray stroke color because /'P26' is an invalid float value
+Cannot set gray stroke color because /'P27' is an invalid float value
+Cannot set gray stroke color because /'P28' is an invalid float value
+Cannot set gray stroke color because /'P29' is an invalid float value
+Cannot set gray stroke color because /'P30' is an invalid float value
+Cannot set gray stroke color because /'P31' is an invalid float value
+Cannot set gray stroke color because /'P32' is an invalid float value
+Cannot set gray stroke color because /'P33' is an invalid float value
+Cannot set gray stroke color because /'P34' is an invalid float value
+Cannot set gray stroke color because /'P35' is an invalid float value
+Cannot set gray stroke color because /'P36' is an invalid float value
+Cannot set gray stroke color because /'P37' is an invalid float value
+Cannot set gray stroke color because /'P38' is an invalid float value
+Cannot set gray stroke color because /'P39' is an invalid float value
+Cannot set gray stroke color because /'P40' is an invalid float value
+Cannot set gray stroke color because /'P41' is an invalid float value
+Cannot set gray stroke color because /'P42' is an invalid float value
+Cannot set gray stroke color because /'P43' is an invalid float value
+Cannot set gray stroke color because /'P44' is an invalid float value
+Cannot set gray stroke color because /'P45' is an invalid float value
+Cannot set gray stroke color because /'P46' is an invalid float value
+Cannot set gray stroke color because /'P47' is an invalid float value
+Cannot set gray stroke color because /'P48' is an invalid float value
+Cannot set gray stroke color because /'P49' is an invalid float value
+Cannot set gray stroke color because /'P50' is an invalid float value
+Cannot set gray stroke color because /'P51' is an invalid float value
+Cannot set gray stroke color because /'P52' is an invalid float value
+Cannot set gray stroke color because /'P53' is an invalid float value
+Cannot set gray stroke color because /'P54' is an invalid float value
+Cannot set gray stroke color because /'P55' is an invalid float value
+Cannot set gray stroke color because /'P56' is an invalid float value
+Cannot set gray stroke color because /'P57' is an invalid float value
+Cannot set gray stroke color because /'P58' is an invalid float value
+Cannot set gray stroke color because /'P59' is an invalid float value
+Cannot set gray stroke color because /'P60' is an invalid float value
+Cannot set gray stroke color because /'P61' is an invalid float value
+Cannot set gray stroke color because /'P62' is an invalid float value
+Cannot set gray stroke color because /'P63' is an invalid float value
+Cannot set gray stroke color because /'P64' is an invalid float value
+Cannot set gray stroke color because /'P65' is an invalid float value
+Cannot set gray stroke color because /'P66' is an invalid float value
+Cannot set gray stroke color because /'P67' is an invalid float value
+Cannot set gray stroke color because /'P68' is an invalid float value
+Cannot set gray stroke color because /'P69' is an invalid float value
+Cannot set gray stroke color because /'P70' is an invalid float value
+Cannot set gray stroke color because /'P71' is an invalid float value
+Cannot set gray stroke color because /'P72' is an invalid float value
+Cannot set gray stroke color because /'P73' is an invalid float value
+Cannot set gray stroke color because /'P74' is an invalid float value
+Cannot set gray stroke color because /'P75' is an invalid float value
+Cannot set gray stroke color because /'P76' is an invalid float value
+Cannot set gray stroke color because /'P77' is an invalid float value
+Cannot set gray stroke color because /'P78' is an invalid float value
+Cannot set gray stroke color because /'P79' is an invalid float value
+Cannot set gray stroke color because /'P80' is an invalid float value
+Cannot set gray stroke color because /'P81' is an invalid float value
+Cannot set gray stroke color because /'P82' is an invalid float value
+Cannot set gray stroke color because /'P83' is an invalid float value
+Cannot set gray stroke color because /'P84' is an invalid float value
+Cannot set gray stroke color because /'P85' is an invalid float value
+Cannot set gray stroke color because /'P86' is an invalid float value
+Cannot set gray stroke color because /'P87' is an invalid float value
+Cannot set gray stroke color because /'P88' is an invalid float value
+Cannot set gray stroke color because /'P89' is an invalid float value
+Cannot set gray stroke color because /'P90' is an invalid float value
+Cannot set gray stroke color because /'P91' is an invalid float value
+Cannot set gray stroke color because /'P92' is an invalid float value
+Cannot set gray stroke color because /'P93' is an invalid float value
+Cannot set gray stroke color because /'P94' is an invalid float value
+Cannot set gray stroke color because /'P95' is an invalid float value
+Cannot set gray stroke color because /'P96' is an invalid float value
+Cannot set gray stroke color because /'P97' is an invalid float value
+Cannot set gray stroke color because /'P98' is an invalid float value
+Cannot set gray stroke color because /'P99' is an invalid float value
+Cannot set gray stroke color because /'P100' is an invalid float value
+Cannot set gray stroke color because /'P101' is an invalid float value
+Cannot set gray stroke color because /'P102' is an invalid float value
+Cannot set gray stroke color because /'P103' is an invalid float value
+Cannot set gray stroke color because /'P104' is an invalid float value
+Cannot set gray stroke color because /'P105' is an invalid float value
+Cannot set gray stroke color because /'P106' is an invalid float value
+Cannot set gray stroke color because /'P107' is an invalid float value
+Cannot set gray stroke color because /'P108' is an invalid float value
+Cannot set gray stroke color because /'P109' is an invalid float value
+Cannot set gray stroke color because /'P110' is an invalid float value
+Cannot set gray stroke color because /'P111' is an invalid float value
+Cannot set gray stroke color because /'P112' is an invalid float value
+Cannot set gray stroke color because /'P113' is an invalid float value
+Cannot set gray stroke color because /'P114' is an invalid float value
+Cannot set gray stroke color because /'P115' is an invalid float value
+Cannot set gray stroke color because /'P116' is an invalid float value
+Cannot set gray stroke color because /'P117' is an invalid float value
+Cannot set gray stroke color because /'P118' is an invalid float value
+Cannot set gray stroke color because /'P119' is an invalid float value
+Cannot set gray stroke color because /'P120' is an invalid float value
+Cannot set gray stroke color because /'P121' is an invalid float value
+Cannot set gray stroke color because /'P122' is an invalid float value
+Cannot set gray stroke color because /'P123' is an invalid float value
+Cannot set gray stroke color because /'P124' is an invalid float value
+Cannot set gray stroke color because /'P125' is an invalid float value
+Cannot set gray stroke color because /'P126' is an invalid float value
+Building FAISS index from documents...
+Indexing 98 document chunks...
+Saved index to index.faiss
+[DEBUG] Trying model.invoke(messages)...
+Q q1: What is a Link Monster primarily used for in Yu-Gi-Oh!?
+Model output:
+ B: To provide Link Markers that enable Extra Monster Zone and Link Summons
+
+Justification: According to the rulebook, a Link Monster's primary function is to provide Link Markers (Link Arrows) that enable the use of Extra Monster Zones and allow for Link Summons in the zones they point to.
+Detected choice: B Expected: B
+[DEBUG] Trying model.invoke(messages)...
+Q q2: Which monster type can be used as Synchro Material for a Synchro Summon?
+Model output:
+ C: Only Tuner monsters plus one or more non-Tuner monsters
+
+Justification: According to the rulebook, a Synchro Summon requires 1 face-up Tuner monster and any number of other face-up non-Tuner monsters, where the combined Levels of these monsters must equal the Level of the Synchro Monster you want to Synchro Summon.
+Detected choice: C Expected: C
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Failed to call chat model or model returned empty response.
+Q q3: If a card text reads 'You can only use this effect of "Card Name" once per turn', what does that mean?
+Model output:
+ 
+Detected choice: None Expected: D
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Failed to call chat model or model returned empty response.
+Q q4: Which of the following is TRUE about 'Link Arrows' on Link Monsters?
+Model output:
+ 
+Detected choice: None Expected: C
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Failed to call chat model or model returned empty response.
+Q q5: What happens when a monster that was Special Summoned from the Extra Deck is sent to the GY?
+Model output:
+ 
+Detected choice: None Expected: B
+[DEBUG] Trying model.invoke(messages)...
+Q q6: Which of the following best describes a 'Chain' in Yu-Gi-Oh!?
+Model output:
+ C: A stack of Spell/Trap/Monster effects that resolve last-in, first-out
+
+Justification: According to the rulebook, a Chain is a way to order the resolution of multiple card effects. Effects are stacked in the order they are activated, and they resolve in reverse order, starting with the last effect to be activated. This matches the description of a stack that resolves last-in, first-out.
+Detected choice: C Expected: C
+[DEBUG] Trying model.invoke(messages)...
+Q q7: What is required to perform a Ritual Summon?
+Model output:
+ B: A Ritual Spell Card and tributing monsters whose Levels equal or exceed the Ritual Monster's Level
+
+Justification: According to the rulebook, to perform a Ritual Summon, you need a Ritual Spell Card and the required Tribute, which is listed on the Ritual Spell Card. The Tribute involves sending monsters from your hand or the field to the Graveyard, and their Levels must equal or exceed the Level of the Ritual Monster you are trying to summon.
+Detected choice: B Expected: B
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Failed to call chat model or model returned empty response.
+Q q8: Which card effect type can respond to another effect to negate it in the Chain?
+Model output:
+ 
+Detected choice: None Expected: D
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Failed to call chat model or model returned empty response.
+Q q9: What is a 'Link Rating' commonly referred to as?
+Model output:
+ 
+Detected choice: None Expected: C
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Failed to call chat model or model returned empty response.
+Q q10: Which method below is a correct way to Special Summon a Fusion Monster from the Extra Deck?
+Model output:
+ 
+Detected choice: None Expected: C
+[DEBUG] Trying model.invoke(messages)...
+Q q11: What is the maximum number of cards allowed in a Main Deck in official Yu-Gi-Oh! tournaments?
+Model output:
+ A: 40 cards
+
+Justification: According to the rulebook, the Main Deck should be kept close to the 40-card minimum, and there is no stated maximum limit beyond this. However, the implication is that you should not exceed 40 cards because having more makes it harder to draw your best cards when needed. In official tournaments, the standard is to have exactly 40 cards in your Main Deck.
+Detected choice: A Expected: C
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Q q12: When can you activate a Trap Card from your hand?
+Model output:
+ B: You cannot activate Trap Cards from your hand; they must be Set first
+
+Justification: According to the rulebook, you must Set a Trap Card on the field first before you can activate it. You cannot activate a Trap Card directly from your hand.
+Detected choice: B Expected: B
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Q q13: What does 'piercing damage' mean in Yu-Gi-Oh!?
+Model output:
+ C: When a monster attacks a Defense Position monster with lower DEF, the difference is dealt as damage to the opponent
+
+Justification: According to the rulebook, piercing battle damage occurs when an attacking monster deals damage equal to the difference between its ATK and the DEF of the defending monster. This damage is inflicted to the opponent's Life Points.
+Detected choice: C Expected: C
+[DEBUG] Trying model.invoke(messages)...
+Q q14: Which of the following is TRUE about Pendulum Monsters?
+Model output:
+ D: They can be placed in the Pendulum Zones to act as Spell Cards and enable Pendulum Summons
+
+Justification: According to the rulebook, Pendulum Monster Cards can be activated as Spell Cards in the Pendulum Zones, which are the leftmost and rightmost Spell & Trap Zones. This activation allows them to enable Pendulum Summons.
+Detected choice: D Expected: D
+[DEBUG] Trying model.invoke(messages)...
+Q q15: What happens if both players' Life Points reach 0 at the same time?
+Model output:
+ B: The Duel is a draw (tie)
+
+Justification: According to the rulebook, if both players' Life Points reach 0 at the same time, the Duel is declared a draw.
+Detected choice: B Expected: B
+[DEBUG] Trying model.invoke(messages)...
+Q q16: What is an XYZ Monster's 'Rank'?
+Model output:
+ C: The number that indicates what Level monsters are needed as XYZ Materials
+
+Justification: According to the rulebook, the Rank of an Xyz Monster is the number that indicates the Level of the monsters needed as Xyz Materials. For example, a Rank 4 Xyz Monster requires two Level 4 monsters as Xyz Materials.
+Detected choice: C Expected: C
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Q q17: Can you Normal Summon and Special Summon in the same turn?
+Model output:
+ D: Yes, you can perform one Normal Summon and any number of Special Summons per turn
+
+Justification: According to the rulebook, you can only Normal Summon or Set a monster once per turn, but there is no limit to the number of times you can Special Summon during a turn. This means you can perform one Normal Summon and any number of Special Summons in the same turn.
+Detected choice: D Expected: D
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Q q18: What does 'banish' mean in Yu-Gi-Oh!?
+Model output:
+ C: Remove a card from play (send it to a separate zone, formerly called 'removed from play')
+
+Justification: According to the rulebook, banishing a card means separating it from the field and placing it in a separate zone, which was previously referred to as "removed from play."
+Detected choice: C Expected: C
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Failed to call chat model or model returned empty response.
+Q q19: If a monster is unaffected by Spell effects, can it still be targeted by a Spell Card?
+Model output:
+ 
+Detected choice: None Expected: D
+[DEBUG] Trying model.invoke(messages)...
+[DEBUG] Trying model.generate([[messages]])...
+Q q20: What is the difference between 'destroy' and 'send to the Graveyard'?
+Model output:
+ D: 'Destroy' is a specific game action that can trigger certain effects; 'send to GY' does not count as destruction
+
+Justification: According to the rulebook, a card is considered "destroyed" when it is sent to the Graveyard due to battle between monsters or by an effect that destroys a card. However, a card that is sent to the Graveyard as a cost, Tribute, or by other means is not considered "destroyed." Therefore, 'destroy' and 'send to the Graveyard' are distinct actions, with 'destroy' being a specific type of action that can activate certain effects.
+Detected choice: D Expected: D
+
+Summary:
+Total: 20, Correct: 12, Accuracy: 60.00%

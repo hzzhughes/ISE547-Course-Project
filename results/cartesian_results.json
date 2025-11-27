@@ -1,0 +1,44 @@
+[
+  {
+    "chat_model": "openai/gpt-oss-120b",
+    "embed_model": "openai/text-embedding-3-small",
+    "returncode": 0,
+    "logfile": "/Users/maeshughes/Documents/Courses/ISE547-USC-Fall2025/assignments/final_project/public/results/log_chat=openai:gpt-oss-120b_embed=openai:text-embedding-3-small.txt",
+    "summary_line": "Total: 20, Correct: 19, Accuracy: 95.00%"
+  },
+  {
+    "chat_model": "openai/gpt-oss-120b",
+    "embed_model": "qwen/qwen3-embedding-8b",
+    "returncode": 0,
+    "logfile": "/Users/maeshughes/Documents/Courses/ISE547-USC-Fall2025/assignments/final_project/public/results/log_chat=openai:gpt-oss-120b_embed=qwen:qwen3-embedding-8b.txt",
+    "summary_line": "Total: 20, Correct: 19, Accuracy: 95.00%"
+  },
+  {
+    "chat_model": "google/gemini-2.0-flash-lite-001",
+    "embed_model": "openai/text-embedding-3-small",
+    "returncode": 0,
+    "logfile": "/Users/maeshughes/Documents/Courses/ISE547-USC-Fall2025/assignments/final_project/public/results/log_chat=google:gemini-2.0-flash-lite-001_embed=openai:text-embedding-3-small.txt",
+    "summary_line": "Total: 20, Correct: 19, Accuracy: 95.00%"
+  },
+  {
+    "chat_model": "google/gemini-2.0-flash-lite-001",
+    "embed_model": "qwen/qwen3-embedding-8b",
+    "returncode": 0,
+    "logfile": "/Users/maeshughes/Documents/Courses/ISE547-USC-Fall2025/assignments/final_project/public/results/log_chat=google:gemini-2.0-flash-lite-001_embed=qwen:qwen3-embedding-8b.txt",
+    "summary_line": "Total: 20, Correct: 19, Accuracy: 95.00%"
+  },
+  {
+    "chat_model": "qwen/qwen-2.5-72b-instruct",
+    "embed_model": "openai/text-embedding-3-small",
+    "returncode": 0,
+    "logfile": "/Users/maeshughes/Documents/Courses/ISE547-USC-Fall2025/assignments/final_project/public/results/log_chat=qwen:qwen-2.5-72b-instruct_embed=openai:text-embedding-3-small.txt",
+    "summary_line": "Total: 20, Correct: 12, Accuracy: 60.00%"
+  },
+  {
+    "chat_model": "qwen/qwen-2.5-72b-instruct",
+    "embed_model": "qwen/qwen3-embedding-8b",
+    "returncode": 0,
+    "logfile": "/Users/maeshughes/Documents/Courses/ISE547-USC-Fall2025/assignments/final_project/public/results/log_chat=qwen:qwen-2.5-72b-instruct_embed=qwen:qwen3-embedding-8b.txt",
+    "summary_line": "Total: 20, Correct: 19, Accuracy: 95.00%"
+  }
+]
